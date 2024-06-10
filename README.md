@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/tsrdzy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TSRDZY}&fontSize=90&fontAlign=50&fontAlignY=30&desc={源鸟工作室}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
