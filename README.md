@@ -5,7 +5,7 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=tsrdzy&theme=github-compact&hide_border=true&area=true" />
 
-<p align="center">
+<p align="center" display="flex">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=tsrdzy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tsrdzy&theme=transparent&hide_border=%E7%9C%9F&date_format=%5BY.%5Dn.j&%E6%88%92%E6%8C%87=EB5454&%E7%81%AB%E7%81%BE=EB5454" alt="GitHub Streak" /></a>
 </p>
