@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsrdzy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> 
   <img align="top" width="auto" src="https://github-readme-stats.vercel.app/api?username=tsrdzy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsrdzy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--  <div align="center">-->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsrdzy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
